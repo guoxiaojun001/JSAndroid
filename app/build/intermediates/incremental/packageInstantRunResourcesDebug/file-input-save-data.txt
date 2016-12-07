@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Dec 07 15:47:55 GMT+08:00 2016
+1.base=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\assets\\debug
+4.file=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.file=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\assets\\debug\\index.html
+4.set=ANDROID_RESOURCE
+2.base=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+count=5
+1.set=ASSET
+3.base=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=F\:\\demo_code\\android\\JSAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_

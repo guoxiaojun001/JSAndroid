@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\demo_code\android\JSAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7d09f8856b5eb946cdc46a04cecc5b6f83dcfd69">
+        <dex dex="F:\demo_code\android\JSAndroid\app\build\intermediates\pre-dexed\debug\instant-run_87ad6faa757f1c9a836afb16c27a5ad998aaca4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo_code\android\JSAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\demo_code\android\JSAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_4a51cb45a6c0a8b8f5cb0b3898fe463f16b46df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\demo_code\android\JSAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_dd5331960d00fec963a4fb79de7eab33ceca79e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo_code\android\JSAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\demo_code\android\JSAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_21a1cb195e4cbfcd83e1a6eec5e8dbdb273f5661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\demo_code\android\JSAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="06207b7f3ad6171246a1720c9af03a78ae4758e3">
+        <dex dex="F:\demo_code\android\JSAndroid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fd4879e7054cd3a3759b71acf86bf715ce7d1f05.jar" />
+    </item>
+
+</items>
